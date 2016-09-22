@@ -1,0 +1,82 @@
+{
+  "id": 1108703001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.0091283,-12.1198516,-77.0091283,-12.1198516",
+    "geom:latitude":-12.119852,
+    "geom:longitude":-77.009128,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Miraflores",
+    "sg:city":"Lima",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Lima 18",
+    "sg:tags":[
+        "peru",
+        "advertising",
+        "publicidad",
+        "peruanos",
+        "online",
+        "internet",
+        "adwords",
+        "adsense"
+    ],
+    "sg:website":"http://www.deperu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632521,
+        85765665,
+        85675909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fBt3JFiwrinm4BABNrlcr_-12.119852_-77.009128@1308163242"
+    },
+    "wof:country":"PE",
+    "wof:created":1474570897,
+    "wof:geomhash":"f844f748f317617d599bc5aed14e2b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "neighbourhood_id":85765665,
+            "region_id":85675909,
+            "venue_id":1108703001
+        }
+    ],
+    "wof:id":1108703001,
+    "wof:lastmodified":1474570897,
+    "wof:name":"DePeru.com",
+    "wof:parent_id":85765665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "peru",
+        "advertising",
+        "publicidad",
+        "peruanos",
+        "online",
+        "internet",
+        "adwords",
+        "adsense"
+    ]
+},
+  "bbox": [
+    -77.0091283,
+    -12.1198516,
+    -77.0091283,
+    -12.1198516
+],
+  "geometry": {"coordinates":[-77.0091283,-12.1198516],"type":"Point"}
+}
